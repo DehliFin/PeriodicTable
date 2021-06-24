@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+table{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+td{
+    width: calc(100vw / 19);
+   
+    margin: 0;
+
+    
+}
+
+tr{
+    height: calc(100vh / 8);
+    margin: 0;
+    padding: 0;
+}

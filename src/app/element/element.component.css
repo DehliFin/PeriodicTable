@@ -1,0 +1,47 @@
+.element{
+    border: 2px solid;
+    height: 100%;
+    padding: 2px;
+    box-sizing: border-box;
+}
+
+
+.symbol{
+    font-size: 2em;
+}
+
+.Noblegas{
+    background-color: rgb(235, 0, 235);
+    
+}
+
+.Alkalineearthmetal{
+    background-color: yellow;
+}
+
+.Reactivenonmetal{
+    background-color: rgb(1, 182, 1);
+}
+.Alkalimetal{
+    background-color: orange;
+}
+
+.Lanthanoid{
+    background-color: goldenrod;
+}
+
+.Actinide{
+    background-color: pink;
+}
+
+.Transitionmetal{
+    background-color: coral;
+}
+
+.Post-transitionmetals{
+    background-color: aqua;
+}
+
+.Metalloid{
+    background-color: turquoise;
+}
