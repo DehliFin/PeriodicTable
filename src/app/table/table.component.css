@@ -3,22 +3,23 @@ body{
 }
 
 table{
-    width: 100vw;
+    width: 98vw;
     height: 100vh;
     margin: 0;
     padding: 0;
+    line-break: anywhere;
 }
 
 td{
-    width: calc(100vw / 19);
-   
+    width: calc(100vw / 18);
     margin: 0;
+    
 
     
 }
 
 tr{
-    height: calc(100vh / 8);
+    height: calc(100vh / 7);
     margin: 0;
     padding: 0;
 }
