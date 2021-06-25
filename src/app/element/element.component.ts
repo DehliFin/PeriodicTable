@@ -8,7 +8,7 @@ import {PElement} from "../pelement";
 })
 export class ElementComponent implements OnInit {
 
-  @Input() element: PElement = new PElement( 0,0,"Hydrogen", 1, 1.008,  "Reactive nonmetal", "H" );;
+  @Input() element: PElement = new PElement( 0,0,"Hydrogen", 1, 1.008,  "Reactive nonmetal", "H" );
 
   constructor() {
     /*if (this.element === null)

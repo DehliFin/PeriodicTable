@@ -45,3 +45,11 @@
 .Metalloid{
     background-color: turquoise;
 }
+
+a:link{
+    text-decoration: none;
+}
+
+a{ 
+    color: black;
+}
